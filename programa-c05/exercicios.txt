@@ -1,0 +1,4 @@
+01 - Fazer um programa que imprima o nome da sua cidade natal.
+02 - Faça um programa que imprima na primeira linha seu nome, na segunda linha sua idade e na terceira linha sua altura.
+03 - Faça um programa que imprima o número 75.7632489 com 1,2 e 5 casas decimais.
+
