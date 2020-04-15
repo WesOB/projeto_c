@@ -1,0 +1,4 @@
+01 - Faça um programa que peça ao usuário para digitar sua altura, leia oa dado digitado e imprima o valor.
+
+02 - Faça um programa o qual o usuário digite o seu peso e o de mais duas pessoas, imprima os valores digitados.
+
